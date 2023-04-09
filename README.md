@@ -25,3 +25,6 @@ vt检测出来了3个，加ETW禁用vt检测12个。。
   
  windows defender，卡巴，360，火绒运行时能成功上线，但后续的cs指令由于cs带有特征所以卡巴会检测出来。
 ![](http://39.107.239.30:3000/uploads/0173f9c0-8737-4ac0-bb07-d3c8c9becacf.png)
+![](http://39.107.239.30:3000/uploads/d55bffc8-a68a-436e-b3a0-f7d23cecdab5.png)
+成功上线
+![](http://39.107.239.30:3000/uploads/f853a30b-eeae-47d3-9d54-8adb3ccaf62b.png)
